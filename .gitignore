@@ -262,3 +262,8 @@ sketch
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/node,react,visualstudiocode,jetbrains+all
+frontend/microfrontend/auth-microfrontend/.__mf__temp/remote/localSharedImportMap.js
+frontend/microfrontend/main-microfrontend/.__mf__temp/host/localSharedImportMap.js
+frontend/microfrontend/place-list-microfrontend/.__mf__temp/remote/localSharedImportMap.js
+frontend/microfrontend/profile-microfrontend/.__mf__temp/remote/localSharedImportMap.js
+frontend/microfrontend/shared-microfrontend/.__mf__temp/remote/localSharedImportMap.js
